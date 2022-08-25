@@ -9,3 +9,15 @@ body {
 .header p {
 	color: #50524F;
 }
+
+.movie {
+	border: black;
+	border-style: double;
+	background-color: blue;
+	margin: 20px;
+	padding: 40px
+}
+
+.add-btn {
+	background-color: green; 
+}
